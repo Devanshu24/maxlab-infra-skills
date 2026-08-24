@@ -1,0 +1,16 @@
+{
+  "name": "maxlab",
+  "description": "Infrastructure skills for MaxLab members using shared compute resources.",
+  "owner": {
+    "name": "MaxLab",
+    "email": "msimchow@andrew.cmu.edu"
+  },
+  "plugins": [
+    {
+      "name": "maxlab-infra",
+      "description": "Infrastructure guidance for MaxLab members across shared compute resources.",
+      "category": "infrastructure",
+      "source": "./"
+    }
+  ]
+}

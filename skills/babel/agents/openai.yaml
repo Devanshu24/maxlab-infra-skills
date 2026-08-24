@@ -1,0 +1,7 @@
+interface:
+  display_name: "MaxLab on CMU Babel"
+  short_description: "Partitions, preemption, and storage on CMU Babel"
+  default_prompt: "Use $babel to handle this Babel task with the relevant partition, preemption, storage, and MaxLab approval guidance."
+
+policy:
+  allow_implicit_invocation: true

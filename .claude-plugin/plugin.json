@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "maxlab-infra",
+  "displayName": "MaxLab Infrastructure",
+  "description": "Infrastructure guidance for MaxLab members across shared compute resources.",
+  "author": {
+    "name": "MaxLab",
+    "email": "msimchow@andrew.cmu.edu"
+  }
+}
